@@ -1,1 +1,10 @@
+*.o
+*.out
+*.vcd
+transcript
+work/
+modelsim.ini
+__pycache__/
+*.log
+*.bak
 
