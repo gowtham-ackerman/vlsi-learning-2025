@@ -1,13 +1,20 @@
-# vlsi-learning-2025
-Learning plan to become a GPU ASIC Engineer by 2028
-## 🎯 Goal
-Become a GPU ASIC Design Engineer @ NVIDIA by 2028
+# VLSI Learning 2025 🚀
 
-## 📅 Roadmap Overview
-A week-by-week plan covering Git, C, Verilog, SystemVerilog, CUDA, FPGA, OpenROAD, and GPU architecture.
+This repository contains my structured learning journey (July 2025 – March 2028) focused on becoming a **GPU Design Engineer at NVIDIA**.
 
-## ✅ Progress Tracker
-- [ ] Week 1 (30 Jul – 4 Aug): Kick-off — tools & GitHub setup
-- [ ] Week 2: C refresher + CodeWars
-- [ ] Week 3: Verilog basics
-...
+## 🧠 Learning Tracks
+- 🔧 C Programming (basics to pointers & embedded)
+- 🔭 Verilog/SystemVerilog for Digital Design
+- 🧰 OpenROAD & FPGA Flow
+- ⚙️ Mini-Projects and Simulation (ModelSim, Quartus)
+- 🧠 NVIDIA Ignite Internship Prep (by Oct 2025)
+
+## 📂 Folder Structure
+- `C_Programs/`: Practice C codes and concepts
+- `Verilog/`: Testbenches and modules
+- `Mini_Projects/`: RTL Design & EDA mini-projects
+- `Notes/`: Study notes, cheatsheets
+
+## 🎯 Final Goal
+- 🔹 Internship at NVIDIA (Oct 2025)
+- 🔹 Placement as a GPU Design Engineer (2028)
